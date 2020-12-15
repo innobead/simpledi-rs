@@ -2,7 +2,7 @@
 
 ## What is simpledi-rs?
 
-A simple DI (Dependency Injection) singleton object storage for providing thread-safe shared object management.
+A simple DI (Dependency Injection) singleton object store for thread-safe shared object management.
 
 ## Getting Started
 
