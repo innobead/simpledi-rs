@@ -8,7 +8,7 @@ A simple DI (Dependency Injection) singleton object store for thread-safe shared
 
 ### Cargo.toml
 
-#### Add simpledi-rs dependency.
+Add simpledi-rs dependency. You also check the package info at https://crates.io/crates/simpledi-rs.
 
 ```toml
 [dependencies]
